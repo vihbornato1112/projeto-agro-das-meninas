@@ -3,6 +3,12 @@ body{
     color:white ;
     font-size: 25px;
 }
+.cabecalho{
+    background-color:url(baby rgb(0, 153, 255)) ;
+    
+}
+
 cabecalho-img{
+    
 width: 10%;
 }
