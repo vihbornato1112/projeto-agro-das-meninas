@@ -6,6 +6,7 @@ body{
 .cabecalho{
     background-image: url('.img/emo.png');
     background-repeat:no-repeat;
+    background-size: cover;
 }
 
 .cabecalho-img{
