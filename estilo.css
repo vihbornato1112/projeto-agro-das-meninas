@@ -5,10 +5,10 @@ body{
 }
 .cabecalho{
     background-color:url(baby rgb(0, 153, 255)) ;
-    
+    background-repeat:no-repeat;
 }
 
-cabecalho-img{
+.cabecalho-img{
     
-width: 10%;
+width: 20%;
 }
