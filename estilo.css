@@ -2,6 +2,9 @@ body{
     background-color: rgb(245, 183, 128); 
     color:white ;
     font-size: 25px;
+    background-image: url('img/snopy.png');
+      background-repeat:no-repeat;
+    background-size: cover;
 }
 .cabecalho{
     background-image: url('.img/emo.png');
