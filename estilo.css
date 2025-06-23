@@ -8,6 +8,7 @@ body{
 }
 .cabecalho{
     background-color: blue;
+    height: 250px;
 }
 
 .cabecalho-img{
