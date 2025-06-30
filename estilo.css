@@ -22,7 +22,7 @@ width: 10%;
 }
 
 .caixa01{
-  background-image: url("caixa01");
+  background-image: url("./img/caixa01.png");
   height: 224px;
-  
+  width: 358px;
 }
