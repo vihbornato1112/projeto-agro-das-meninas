@@ -32,3 +32,14 @@ width: 10%;
     background-size: cover;
     color: black;
 }
+.caixa02{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/caixa02.png");
+  height: 230px;
+  width: 358px;
+  background-repeat:no-repeat;
+    background-size: cover;
+    color: black;
+}
