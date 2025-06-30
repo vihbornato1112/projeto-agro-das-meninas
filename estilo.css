@@ -32,6 +32,7 @@ width: 10%;
     background-size: cover;
     color: black;
 }
+<<<<<<< HEAD
 .caixa02{
   display: flex;
   justify-content: center;
@@ -43,3 +44,16 @@ width: 10%;
     background-size: cover;
     color: black;
 }
+=======
+.caixa03{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/caixa03.png");
+  height: 230px;
+  width: 358px;
+  background-repeat:no-repeat;
+    background-size: cover;
+    color: black;
+}
+>>>>>>> de21e59c66a1df0c5c34a0657485851b001c1d8d
