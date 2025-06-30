@@ -25,4 +25,6 @@ width: 10%;
   background-image: url("./img/caixa01.png");
   height: 224px;
   width: 358px;
+  background-repeat:no-repeat;
+    background-size: cover;
 }
